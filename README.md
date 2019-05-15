@@ -2,7 +2,8 @@
 CentCOG7
 
 
-http://192.155.89.199/centos7-CentCOG7-5.qcow2.tar.gz
+* link offline, moving data 05-15-2019
+
 
 
 f you found this useful, anything helps
