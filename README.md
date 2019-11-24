@@ -8,3 +8,4 @@ CentCOG7
 
 todo:
 * migrate to CentOS 8
+microsd somewhere
