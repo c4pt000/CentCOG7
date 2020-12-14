@@ -8,6 +8,4 @@ CentCOG7
 
 todo:
 * migrate to CentOS 8
-microsd somewhere
 
-https://github.com/c4pt000/circularSD
